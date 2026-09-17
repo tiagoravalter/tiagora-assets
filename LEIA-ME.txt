@@ -1,0 +1,8 @@
+Suba primeiro estes 5 PNGs para a raiz do repositório público tiagoravalter/tiagora-assets:
+- logo-tiagora-branco.png
+- icon-energy.png
+- icon-network.png
+- icon-visual.png
+- icon-security.png
+
+Depois abra assinatura-marcos-azul.html no navegador, use Ctrl+A / Ctrl+C e cole no editor de assinatura do Outlook.
